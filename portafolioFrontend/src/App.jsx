@@ -5,6 +5,8 @@ import AboutMe from './componets/AboutMeMain/AboutMe'
 import SkillsCard from './componets/SkillsCardMain/SkillsCard'
 import Projects from './componets/ProjectsMain/Projects'
 import ContactMe from './componets/ContactMeMain/ContactMe'
+import PersonalLinks from './componets/LinksMain/PersonalLinks'
+
 
 function App() {
   
@@ -16,6 +18,7 @@ function App() {
       <SkillsCard/>
       <Projects/>
       <ContactMe/>
+      <PersonalLinks/>
 
     </div>
   )
